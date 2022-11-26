@@ -1,8 +1,14 @@
 ![pexels-negative-space-169573](https://user-images.githubusercontent.com/76586244/204104242-09a8f1ad-625e-4882-be15-4ee1d0c05eaf.jpg)
 
-### Hi there 👋
+### Hello there! 👋
 
-Here are some ideas to get you started:
+My name is Maxim and I´m a huge data enthusiast. Currently I work at BMW Group as a Process planning specialist. 
+
+In my freetime I´m doing my Master in Data Science. I also program cool project in the area of Data Science. 
+
+Feel free to check it out!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiesel24)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
