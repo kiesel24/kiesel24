@@ -13,7 +13,7 @@ Here are some additionally informations:
 
 - 🔭 I’m currently working on a ML model for housepricing in the US.
 - 👯 I’m looking to collaborate with other Data Scientists 
-- 📫 You can find an reach me [![LinkedIn][2.2]][2].
+- 📫 You can find an reach me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
