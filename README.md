@@ -10,7 +10,8 @@ Feel free to check it out!
 
 
 Here is my current project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiesel24&repo=github-readme-stats)](https://github.com/kiesel24/House-pricing-prediction-for-Ames-Iowa-USA-with-Machine-Learning)
+
+[![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=kiesel24&repo=github-readme-stats](https://github.com/kiesel24/House-pricing-prediction-for-Ames-Iowa-USA-with-Machine-Learning))]
 
 
 - 🔭 I’m currently working on ...
