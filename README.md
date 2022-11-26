@@ -13,4 +13,14 @@ Here are some additionally informations:
 
 - 🔭 I’m currently working on a ML model for housepricing in the US.
 - 👯 I’m looking to collaborate with other Data Scientists 
-- 📫 You can reach me through LinkedIn: https://de.linkedin.com/in/maxim-kiesel-904184152
+- 📫 You can find me on [on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+
+[2]: https://www.linkedin.com/in/heinz-martin/
