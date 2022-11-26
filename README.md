@@ -8,8 +8,10 @@ In my freetime I´m doing my Master in Data Science. I also program cool project
 
 Feel free to check it out!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-api/pin?username=anuraghazra&repo=github-readme-stats
+
+Here is my current project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiesel24&repo=github-readme-stats)](https://github.com/kiesel24/House-pricing-prediction-for-Ames-Iowa-USA-with-Machine-Learning)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
