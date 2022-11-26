@@ -1,7 +1,6 @@
-### Hi there 👋
+![pexels-negative-space-169573](https://user-images.githubusercontent.com/76586244/204104242-09a8f1ad-625e-4882-be15-4ee1d0c05eaf.jpg)
 
-<!--
-**kiesel24/kiesel24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
