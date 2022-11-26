@@ -15,7 +15,7 @@ Here are some additionally informations:
 - 👯 I’m looking to collaborate with other Data Scientists 
 - 📫 You can find me on <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
