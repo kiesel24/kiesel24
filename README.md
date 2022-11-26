@@ -8,7 +8,7 @@ In my freetime I´m doing my Master in Data Science. I also program cool project
 
 Feel free to check it out!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiesel24)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card]([[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/kiesel24/House-pricing-prediction-for-Ames-Iowa-USA-with-Machine-Learning/blob/main/House%20pricing%20prediction%20for%20Ames%20(Iowa%2C%20USA)%20with%20Machine%20Learning.ipynb)](https://github.com/kiesel24/House-pricing-prediction-for-Ames-Iowa-USA-with-Machine-Learning/blob/main/House%20pricing%20prediction%20for%20Ames%20(Iowa%2C%20USA)%20with%20Machine%20Learning.ipynb))](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
