@@ -29,4 +29,4 @@ Here are some additionally informations:
 
 
 ## 🔧 Technologies
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:https://user-images.githubusercontent.com/76586244/204130992-ad97a4da-6cbf-491f-9775-2106e19f8ee5.svg;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<CODE>-<PYTHON>-informational?style=flat&logo=data:https://user-images.githubusercontent.com/76586244/204130992-ad97a4da-6cbf-491f-9775-2106e19f8ee5.svg;base64,<BASE64_DATA>)
