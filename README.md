@@ -37,12 +37,12 @@ Here are some additionally informations:
 
 ![](https://img.shields.io/badge/SHELL-BASH-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/DATA MANIPULATION-PANDAS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DATA_MANIPULATION-PANDAS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/MACHINE LEARNING-SCIKIT LEARN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/MACHINE_EARNING-SCIKIT LEARN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/DATA VISUALIZATION-MATPLOTLIB-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DATA_VISUALIZATION-MATPLOTLIB-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/DATA VISUALIZATION-SEABORN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/DATA_VISUALIZATION-SEABORN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/EDITOR-PYCHARM-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
