@@ -1,7 +1,7 @@
 ![pexels-negative-space-169573](https://user-images.githubusercontent.com/76586244/204130312-37faf66f-3921-441a-bc7c-ccf24c804396.jpg)
 
 
-### Hello there! 👋
+## Hello there! 👋
 
 My name is Maxim and I´m a huge data enthusiast. Currently I work at BMW Group as a Process planning specialist. 
 
@@ -24,5 +24,5 @@ Here are some additionally informations:
 [2]: https://de.linkedin.com/in/maxim-kiesel-904184152
 
 
-# 🔧 Technologies
+## 🔧 Technologies
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
