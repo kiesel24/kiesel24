@@ -39,7 +39,7 @@ Here are some additionally informations:
 
 ![](https://img.shields.io/badge/DATA_MANIPULATION-PANDAS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/MACHINE_EARNING-SCIKIT LEARN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/MACHINE_LEARNING-SCIKIT_LEARN-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/DATA_VISUALIZATION-MATPLOTLIB-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
