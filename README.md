@@ -24,7 +24,8 @@ Here are some additionally informations:
 [2]: https://de.linkedin.com/in/maxim-kiesel-904184152
 
 
+![python](https://user-images.githubusercontent.com/76586244/204130919-0e19bd4e-f5e0-4df6-9939-d066df00561a.svg)
 
 
 ## 🔧 Technologies
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:![python](https://user-images.githubusercontent.com/76586244/204130919-0e19bd4e-f5e0-4df6-9939-d066df00561a.svg);base64,<BASE64_DATA>)
