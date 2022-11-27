@@ -21,3 +21,6 @@ Here are some additionally informations:
 <!-- Links to your social media accounts -->
 
 [2]: https://de.linkedin.com/in/maxim-kiesel-904184152
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+view raw
