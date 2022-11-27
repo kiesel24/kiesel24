@@ -24,7 +24,7 @@ Here are some additionally informations:
 [2]: https://de.linkedin.com/in/maxim-kiesel-904184152
 
 
-![python](https://user-images.githubusercontent.com/76586244/204130919-0e19bd4e-f5e0-4df6-9939-d066df00561a.svg)
+
 
 
 ## 🔧 Technologies
